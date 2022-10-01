@@ -1,0 +1,1 @@
+/trainingapp/node_modules/
